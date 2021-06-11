@@ -1,1 +1,4 @@
 *.cpython-38.pyc
+*.pyc
+lecture3/lecture3/__pycache__/settings.cpython-38.pyc
+lecture3/lecture3/__pycache__/urls.cpython-38.pyc
