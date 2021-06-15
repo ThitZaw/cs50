@@ -1,7 +1,0 @@
-{
-    "python.pythonPath": "/mnt/3A6EBC2D6EBBE035/python environments/env/bin/python3.8",
-    "files.associations": {
-        "*.ejs":"html",
-        "*.js":"html"
-    }
-}
