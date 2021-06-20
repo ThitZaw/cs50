@@ -16,3 +16,4 @@ The video Link are [SQL, Models and Migrations - Lecture 4 - CS50's Web Programm
 - work with ***django model***
 - Add airline project
 - Add **flight** app
+- Add **users** app
